@@ -1,0 +1,70 @@
+body {  
+font-family: 'roboto' ; 
+background-size: cover;
+background-position: 10%;
+background-image: url(/i2.jpg);
+ }
+ nav {
+ margin-left: 60%;
+ }
+.navbar li {
+display: inline;
+color: palevioletred;
+font-size: 50px;
+list-style: none;
+ }
+.h2 {
+color: pink;
+font-size: 30px;
+margin-left:30%;
+}
+img{
+width:200px;
+height: 250px;
+}
+.p {
+display: inline-block;
+width: 40%;
+margin-left: 100px;
+line-height: 30px;
+color: blueviolet ;
+text-decoration: underline;
+}
+form{
+    margin: auto;
+    width: 30%;
+}
+.section{
+    margin-top: 20px;
+}
+.button{
+    background-color: beige;
+    padding: 20px 30px;
+}
+footer{
+font-size: 80%;
+font-weight: bold;
+text-align: center;
+
+}
+
+
+
+
+input{
+    margin-left: 38px;
+    margin-bottom: 10px;
+}
+
+
+#syrine{
+    margin-left: 13px;
+}
+
+button{
+    margin-left: 112px;
+    margin-bottom: 12px;
+    font-size: 18px;
+    color: deeppink;
+    border-radius: 6px;
+}
